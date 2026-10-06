@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 6
+Branch index: 2
+File slot: 0
+Special character: '%' (label: percent)
+Repo: test--repo-006
+Branch: branch-006-02-percent-%-x
+Path: special-chars/file-006-02-0-percent-%-x.txt
