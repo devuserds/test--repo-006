@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 6
+Branch index: 0
+File slot: 0
+Special character: '!' (label: bang)
+Repo: test--repo-006
+Branch: branch-006-00-bang-!-x
+Path: special-chars/file-006-00-0-bang-!-x.txt
